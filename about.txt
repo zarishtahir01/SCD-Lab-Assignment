@@ -1,0 +1,4 @@
+Assignment: 02/Lab
+Course: Software Construction & Development
+Respositry purpose:This respository created only for software construction & development lab assignment 02. it is useful for us to practice git or github operationsfiles creations or push data on github. it help us to understand basic version and manage project.
+Git and Github practice work:it help to understand the repository and also create the account on github ,understand and practice of new operation and features.help students to work and create ,push and make file on github.
